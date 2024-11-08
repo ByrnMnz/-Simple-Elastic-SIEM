@@ -1,4 +1,4 @@
-# Simple-Elastic-SIEM
+# Simple Elastic SIEM Home Lab
 # Project
 
 This lab is dedicated to creating and understanding the basic concepts of an Elastic Stack Security Information and Event Management (SIEM). Using Abdullahi Ali's online guide, I will use virtual machines to generate events on the Kali VM, set up agents to forward data to the SIEM, and query and analyze the SIEM logs. 
